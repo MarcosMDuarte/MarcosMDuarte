@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MarcosMDuarte
-- Meu interesse é no desenvolvimento full stack
+- Meu interesse é no desenvolvimento full stack e área de QA 
 - Estou estudando JAVA
-- No momento eu estou trasformando exercícios de Python para Java, olhem meu repositório!! 
+- Estou dentro do programa Reset da empres CWI aprendendo sobre QA
+ 
 
 
 <!---
