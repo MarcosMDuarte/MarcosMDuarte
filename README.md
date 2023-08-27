@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcosMDuarte
 - Meu interesse é no desenvolvimento full stack e área de QA 
 - Estou estudando JAVA
-- Estou dentro do programa Reset da empres CWI aprendendo sobre QA
+- Sou Analista de Qualidade
  
 
 
